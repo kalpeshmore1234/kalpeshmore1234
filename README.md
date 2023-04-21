@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **klapesh3869@gmail.com**
 
-- ⚡ Fun fact **I think I am Big Believer in Hard-work and Persistence**
+- ⚡ Fun fact **I think I am Big Believer in Hard-work, Persistence & Focus**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
