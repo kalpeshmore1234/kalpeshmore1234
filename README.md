@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Frontend projects**
 
-- 🌱 I’m currently learning **React native**
+- 🌱 I’m currently learning **Javascript and React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kalpeshmore1234](https://github.com/kalpeshmore1234)
 
