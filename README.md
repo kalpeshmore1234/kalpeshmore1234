@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Frontend projects**
+- 🔭 I’m currently working on **MERN stack project**
 
-- 🌱 I’m currently learning **Javascript and React**
+- 🌱 I’m currently learning **MERN(MongoDB, Express js, React js, Node js) stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kalpeshmore1234](https://github.com/kalpeshmore1234)
 
-- 💬 Ask me about **HTML,CSS,Javascript**
+- 💬 Ask me about **HTML,CSS,Javascript, React js, Redux**
 
 - 📫 How to reach me **klapesh3869@gmail.com**
 
