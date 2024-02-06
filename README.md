@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on *React* project**
+- 🔭 I’m currently working on *instagram clone* project**
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **Next js and tailwind css**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kalpeshmore1234](https://github.com/kalpeshmore1234)
 
