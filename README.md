@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on *instagram clone* project**
 
-- 🌱 I’m currently learning **Next js and tailwind css**
+- 🌱 I’m currently learning **MERN stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kalpeshmore1234](https://github.com/kalpeshmore1234)
 
