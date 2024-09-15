@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **HTML,CSS,Javascript, React js, Redux**
 
-- 📫 How to reach me **klapesh3869@gmail.com**
+- 📫 How to reach me **kalpeshmore4049803@gmail.com**
 
 - ⚡ Fun fact **I think I am Big Believer in Hard-work, Persistence & Focus**
 
