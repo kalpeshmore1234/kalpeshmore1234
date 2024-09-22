@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on *instagram clone* project**
+- 🔭 I’m currently looking for Frontend Developer Job**
 
 - 🌱 I’m currently learning **Next Js**
 
