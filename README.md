@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working as a web Developer at Optimaio**
+- 🔭 I’m currently working as a Web Developer at Optimaio**
 
 - 🌱 I’m currently learning **Node Js**
 
