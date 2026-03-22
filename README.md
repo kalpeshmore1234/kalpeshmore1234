@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m Frontend Developer at Realatte Ventures LLP**
+- 🔭 I’m currently working as a web Developer at Optimaio**
 
-- 🌱 I’m currently learning **Next Js**
+- 🌱 I’m currently learning **Node Js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kalpeshmore1234](https://github.com/kalpeshmore1234)
 
