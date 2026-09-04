@@ -24,7 +24,7 @@
 
 ## 👨‍💻 About Me
 
-- 💼 Web Developer with professional experience in **Frontend, Full-Stack JavaScript, and Shopify development**
+- 💼 Full Stack Developer with professional experience in **Frontend, Full-Stack JavaScript, and Shopify development**
 - ⚛️ Strong in **React.js, JavaScript, HTML, CSS, and responsive UI development**
 - 🛠️ Experienced with **Node.js, Express.js, MongoDB, REST APIs, JWT, and Auth0**
 - 🛍️ Experienced in building and enhancing **Shopify stores using Shopify Liquid**
@@ -37,7 +37,7 @@
 
 ## 💼 Professional Experience
 
-### Web Developer — Optimaio
+### Full Stack Developer — Optimaio
 
 - Built **4+ Shopify stores from scratch** and enhanced **7–8 existing stores**
 - Developed custom **Shopify Liquid sections** and reusable storefront functionality
@@ -46,7 +46,7 @@
 - Worked with **100+ customer records** using custom Metaobject tooling
 - Developed responsive and user-focused e-commerce experiences
 
-### Frontend Web Developer — Realatte Ventures LLP
+### Frontend Developer — Realatte Ventures LLP
 
 - Developed **15+ responsive landing pages** using modern frontend technologies
 - Built and maintained React.js applications using **React Router**
@@ -59,7 +59,7 @@
 - Worked on frontend web development and responsive UI implementation
 - Gained practical experience with modern web development workflows
 
-### Web Development Intern — Maxgen Technologies
+### React Js Development Intern — Maxgen Technologies
 
 - Worked on web development tasks and frontend implementation
 - Developed practical experience with HTML, CSS, JavaScript, and web technologies
